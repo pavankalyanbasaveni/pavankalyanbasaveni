@@ -9,7 +9,7 @@
 I'm a IT student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a IT student at kakatiya Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning web development and machine learning.
 - 👯 I’m looking for a software development internship. 
 - ⚡ Languages: Javascript, Python3,c++
 
