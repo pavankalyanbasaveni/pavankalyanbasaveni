@@ -1,4 +1,6 @@
-
+# PavanKalyan Basaveni 
+[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mr_hunter3)](https://twitter.com/mr_hunter3) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/pavankalyanbasaveni/) 
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavankalyanbasaveni@gmail.com)](mailto:@gmail.com)
 
 ### Hi there 👋
 
