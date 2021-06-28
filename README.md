@@ -11,5 +11,5 @@ I'm a IT student who is passionate about writing code, solving problems, automat
 - 🔭 I’m currently a IT student at kakatiya Unversity.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pavankalyanbasaveni) [Gmail](mailto:pavankalyanbasaveni@gmail.com)
+- ⚡ Languages: Javascript, Python3,c++
 
