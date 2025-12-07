@@ -9,7 +9,7 @@
     <i>"Passionate about building scalable backend systems and intuitive front-end experiences."</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/pavankalyanbasaveni">
+  <a href="https://www.linkedin.com/in/pavankalyanbasaveni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
@@ -93,7 +93,7 @@
   
   ### 🤝 Let's Connect!
   
-  <a href="https://www.linkedin.com/in/pavankalyanbasaveni">
+  <a href="https://www.linkedin.com/in/pavankalyanbasaveni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
